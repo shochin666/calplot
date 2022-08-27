@@ -2,7 +2,10 @@
 
 ## パッケージのインストール
 
-- requirements.txt を用いてパッケージをインストール
+requirements.txt を用いて以下のライブラリ等をインストール
+
+- Streamlit
+- Python3
 
 ```python
 pip install -r requirements.txt
